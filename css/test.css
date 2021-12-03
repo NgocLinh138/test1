@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #f8b7e2;
+}
+
+#result,
+#alert1,
+#alert2 {
+  display: none;
+}
+/*# sourceMappingURL=test.css.map */
